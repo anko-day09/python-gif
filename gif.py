@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
 # 画像のパス
-image_path = 'gif-image.png'
+image_path = ''
 
 # 元の画像を読み込む
 base_image = Image.open(image_path)
